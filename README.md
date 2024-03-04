@@ -1,5 +1,5 @@
 # Hands - On
-In this repository, we demonstrate how to work with real-time data streaming to enhance your understanding. Follow these steps and conduct your experiments:
+In this repository, it demonstrate how to work with real-time data streaming to enhance your understanding. Follow these steps and conduct your experiments:
 
 Step 1. - [Introduction to Message Broker](https://github.com/CharisChakim/streaming-data-platform/blob/main/streaming-day-1.md)
 
